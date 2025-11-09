@@ -1,0 +1,27 @@
+{
+  "campaigns": [
+    {
+      "id": 1762709215968,
+      "name": "Ajay Singh",
+      "type": "Email",
+      "description": "wqdwdfc",
+      "createdAt": "2025-11-09T17:26:55.968Z"
+    },
+    {
+      "id": 1762710243827,
+      "name": "Ajay Singh",
+      "type": "Email",
+      "description": "54gtreg",
+      "status": "Active",
+      "createdAt": "2025-11-09T17:44:03.828Z"
+    },
+    {
+      "id": 1762712915461,
+      "name": "Ajay Singh",
+      "type": "Email",
+      "description": "frgvrdvb",
+      "status": "Active",
+      "createdAt": "2025-11-09T18:28:35.461Z"
+    }
+  ]
+}
